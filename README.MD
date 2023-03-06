@@ -1,8 +1,8 @@
 # set-operations
 
 [![npm][npm-img]][npm-url]
-![example workflow](https://github.com/indrajaala/set-operations/actions/workflows/test.yml/badge.svg)
-![example workflow](https://github.com/indrajaala/set-operations/actions/workflows/npm-publish.yml/badge.svg)
+![example workflow](https://github.com/fatso83/set-operations/actions/workflows/test.yml/badge.svg)
+![example workflow](https://github.com/fatso83/set-operations/actions/workflows/npm-publish.yml/badge.svg)
 
 Javascript set operations with Arrays, Objects and Sets.
 
@@ -203,5 +203,5 @@ symmetricDifference({star:"sun",does:"rises",direction:"east"},
 
 MIT
 
-[npm-img]: https://img.shields.io/npm/v/set-operations.svg
-[npm-url]: https://npmjs.com/package/set-operations
+[npm-img]: https://img.shields.io/npm/v/@fatso83/set-operations.svg
+[npm-url]: https://npmjs.com/package/@fatso83/set-operations
